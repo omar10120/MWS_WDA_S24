@@ -6,7 +6,7 @@ function Information() {
         <div className='w-full flex flex-col justify-end items-end 	 space-y-5 max-sm:p-5 '>
             <h1 className='font-bold text-2xl'>النتيجة </h1>
             <span className='font-bold text-2xl'dir='rtl'>Products</span>
-                <p className='leading-10 ' dir='rtl'>  عائدات المرتفعة مثل S18_3232 وS12_4675. </p>
+                <p className='leading-10 ' dir='rtl'>   عائدات المرتفعة مثل S18_3232 وS12_4675 و S24_3856 و S32_1374 والتي تحقق اعلى نسبة ربح.  </p>
             <span className='font-bold text-2xl' dir='rtl'>المبيعات حسب التاريخ:</span>
             <p className='leading-10 ' dir='rtl'> تشير الزيادة في مايو 2005 إلى فرص موسمية. .</p>
             <h1 className='font-bold text-2xl'  dir='rtl'> من جهة المدن الأكثر مبيعا:  </h1>
